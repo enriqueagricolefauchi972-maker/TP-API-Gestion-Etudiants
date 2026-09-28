@@ -311,6 +311,7 @@ La classe `Database` du fichier `db.py` contient les informations de connexion (
 <p align="center">
   <img src="images/diagramme_classe_database.jpg" alt="Diagramme de classe Database" width="260">
 </p>
+<img width="299" height="285" alt="image" src="https://github.com/user-attachments/assets/4512104d-991c-4858-9bb5-e194916b816f" />
 
 ### Diagramme de cas d'utilisation
 
