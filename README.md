@@ -318,5 +318,6 @@ La classe `Database` du fichier `db.py` contient les informations de connexion (
 L'utilisateur peut faire cinq actions avec l'API : lister tous les étudiants, créer un étudiant, récupérer un étudiant par son id, mettre à jour un étudiant et supprimer un étudiant. Chacune de ces actions passe par la base de données.
 
 ![Diagramme de cas d'utilisation](images/diagramme_cas_utilisation.jpg)
-<img width="785" height="607" alt="image" src="https://github.com/user-attachments/assets/5e88871c-3ac6-4110-ac16-9f70291e10d1" />
+<img width="880" height="584" alt="image" src="https://github.com/user-attachments/assets/1c0b9783-0c9e-4415-9789-a6180587bac5" />
+
 
